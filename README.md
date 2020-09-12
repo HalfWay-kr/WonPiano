@@ -4,4 +4,4 @@
 개발자 유튜브 채널: https://www.youtube.com/channel/UCtM8I5gzqZGmBfIYrzKCZBA
 다운로드 링크: halfway-kr.github.io/wonpiano
 # History
-2020-08-23: 첫 릴리스
+2020-09-12: 첫 릴리스
